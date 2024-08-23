@@ -1,5 +1,4 @@
-== Project Proposal Template
-
+# Project Proposal - OEA_on_Azure
 
 * Name of project: **OEA_on_Azure**
 
