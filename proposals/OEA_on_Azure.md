@@ -1,8 +1,7 @@
 == Project Proposal Template
 
 
-* Name of project: 
-> OEA_on_Azure
+* Name of project: **OEA_on_Azure**
 
 * Requested project maturity level: Sandbox
 
